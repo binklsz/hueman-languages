@@ -32,7 +32,7 @@ msgstr "% hozzászólás"
 
 #: ../comments.php:10
 msgid "Comments"
-msgstr "Hozzászólás"
+msgstr "Hozzászólások"
 
 #: ../comments.php:11
 msgid "Trackbacks &amp; Pingbacks"
@@ -133,7 +133,7 @@ msgstr "Napi archívum:"
 
 #: ../inc/page-title.php:38
 msgid "Monthly Archive:"
-msgstr "Havi archaívum:"
+msgstr "Havi archívum:"
 
 #: ../inc/page-title.php:41
 msgid "Yearly Archive:"
@@ -149,7 +149,7 @@ msgstr "Előző bejegyzés"
 
 #: ../inc/related-posts.php:4
 msgid "You may also like..."
-msgstr "Kedvelt bejegyzések"
+msgstr "Talán ezek is tetszeni fognak..."
 
 #: ../inc/sharrre.php:2
 msgid "Share"
